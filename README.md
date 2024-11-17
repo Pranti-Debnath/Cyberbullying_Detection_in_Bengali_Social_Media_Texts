@@ -1,2 +1,3 @@
 # Cyberbullying_Detection_in_Bengali_Social_Media_Texts
 Undergraduate Thesis-Using Additive Attention based CNN-BiLSTM Model
+Cyberbullying is the act of a person by employing technology to shame or harass other people. Because bullying on online platforms spreads quickly This study presents a deep learning-based hybrid method with an attention mechanism to identify bully expression in Bangla text by employing a multi-class dataset containing four classes such as political, religious, sexual, and non bullying feelings. The proposed framework architecture combines Convolutional Neural Network(CNN) and bidirectional LSTM layers, resulting in a remarkable testing performance on the multi-class dataset.
